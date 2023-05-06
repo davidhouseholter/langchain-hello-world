@@ -1,0 +1,4 @@
+.env
+proto/__pycache__/seq2seq_grpc.cpython-310.pyc
+proto/__pycache__/seq2seq_pb2_grpc.cpython-310.pyc
+proto/__pycache__/seq2seq_pb2.cpython-310.pyc
