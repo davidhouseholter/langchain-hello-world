@@ -1,0 +1,3 @@
+widget: https://notebook.community/jserenson/Python_Bootcamp/GUI/5%20-%20Widget%20Styling
+https://ipywidgets.readthedocs.io/en/7.6.3/examples/Widget%20List.html#HTML
+https://www.wrighters.io/use-ipywidgets-with-jupyter-notebooks/
